@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fuy:home|Door43 (fuy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fuy|d43-fuy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fuy/archive/master.zip|d43-fuy.zip]]
+
+**Recent Changes**
+{{changes>ns = fuy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fuy|Ethnologue data]]
+
